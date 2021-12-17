@@ -51,6 +51,7 @@ items:
  - ObEngine/ObEngine
  - KilledByAPixel/LittleJS
  - ppy/osu-framework
+ - jhasse/jngl
 display_name: Game Engines
 created_by: leereilly
 ---
